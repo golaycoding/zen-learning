@@ -21,6 +21,9 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 - **Summary Writing Task** — Ask the student to write a ~200-word summary. Include bullet-point scaffolding hints of the key points to cover so the student knows where to start. Do NOT leave a blank writing space in the document — it wastes paper when printing.
 - **Answer Key** — At the end of the document, include the correct answer for each multiple choice question with a brief explanation, plus a rubric or guide for scoring the summary.
 
+### Grammar Rules
+- **Avoid filler/crutch words** — do not use words like actually, basically, very, really, just, simply, in fact, essentially, certainly, definitely, quite, truly. Vary sentence openers and avoid leaning on the same intensifier or filler word more than once or twice in the entire document.
+
 ### Format Requirements _(print-friendly to save ink)_
 
 - No background colors on headers or anywhere else
