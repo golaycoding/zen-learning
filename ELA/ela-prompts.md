@@ -23,7 +23,7 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 
 ### Grammar Rules
 - **Avoid filler/crutch words** — do not use words like actually, basically, very, really, just, simply, in fact, essentially, certainly, definitely, quite, truly. Vary sentence openers and avoid leaning on the same intensifier or filler word more than once or twice in the entire document.
-- **Vocabulary** — Use 5+ bolded 7th-grade vocabulary words.Include a concise definition in parentheses after each word.
+- **Vocabulary** — Use 5+ bolded 7th-grade vocabulary words.Include a concise definition in parentheses after each word. Right before the answer key write these vocabulary with their meanings.
 
 ### Format Requirements _(print-friendly to save ink)_
 
