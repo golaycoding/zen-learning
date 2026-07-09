@@ -22,6 +22,7 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 - **Answer Key** — At the end of the document, include the correct answer for each multiple choice question with a brief explanation, plus a rubric or guide for scoring the summary.
 
 ### Grammar Rules
+
 - **Avoid filler/crutch words** — do not use words like actually, basically, very, really, just, simply, in fact, essentially, certainly, definitely, quite, truly. Vary sentence openers and avoid leaning on the same intensifier or filler word more than once or twice in the entire document.
 - **Vocabulary** — Use 5+ bolded 7th-grade vocabulary words.Include a concise definition in parentheses after each word. Right before the answer key write these vocabulary with their meanings.
 
@@ -31,41 +32,4 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 - No tables
 - Plain black text, Arial font, US Letter page size
 - Students write answers on a separate sheet — do not print answer boxes in the document
-- Export as a `.docx` file
-
----
-
-## 2. Student Writing Review
-
-> Paste the student's writing into the prompt below and export the results.
-
-**Prompt:**
-
-Please review the writing sample below from my 7th grader and export the results as a `.docx` file.
-
-**Student's Writing:** `[PASTE STUDENT'S WRITING HERE]`
-
-### Review Structure
-
-**Part 1 — Annotated Essay**
-Copy the student's full writing and mark all errors inline:
-
-- Spelling mistakes: highlight the wrong word in **red**, then write the correct spelling in **green** immediately after it
-- Grammar mistakes: same — wrong in red, correction in green
-- Sentence structure issues: same — problem in red, corrected version in green
-
-**Part 2 — What the Student Did Well**
-List 3–5 specific things the student did well (word choice, ideas, structure, etc.)
-
-**Part 3 — Key Areas to Improve**
-List the most important patterns to work on, grouped by type (spelling, grammar, sentence structure). Keep it encouraging and specific.
-
-**Part 4 — Model Rewrite**
-Write a full, polished version of the same essay at a strong Grade 7 level. Keep the student's original ideas and topic — just improve the language, structure, and flow.
-
-### Format Requirements _(print-friendly to save ink)_
-
-- No background colors
-- No tables
-- Plain black text (except red errors and green corrections), Arial font, US Letter page size
 - Export as a `.docx` file
