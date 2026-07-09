@@ -1,12 +1,4 @@
-# ELA Prompts
-
-A collection of reusable AI prompts for 7th grade English Language Arts worksheets and writing review.
-
----
-
 ## 1. Reading Comprehension Worksheet Generator
-
-> Swap in the topic and paste this prompt whenever you need a new worksheet.
 
 **Prompt:**
 
