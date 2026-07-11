@@ -37,3 +37,4 @@ There is no Settings page for this — scheduling happens by asking Claude to cr
 - **Skill:** reads the top topic from `reading-topics.md`, generates a formatted worksheet, exports as `.docx`, removes the used topic, logs it to `topics-log.md`.
 - **Schedule:** `40 8 * * *` (daily, ~8:40–8:50 AM local time)
 - **Task prompt:** "Run the daily-reading-worksheet skill using the connected folder [path]."
+- **Delete later:** "Delete later"
