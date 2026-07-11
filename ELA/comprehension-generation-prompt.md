@@ -25,4 +25,4 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 - Plain black text, Arial font, US Letter page size
 - Students write answers on a separate sheet — do not print answer boxes in the document
 - Export as a `.docx` file
-- At top of every page should have a title and the bottom should have page number.
+- At top of every page should have a title and the bottom should have page number. The page number should be current page no of total page number.
