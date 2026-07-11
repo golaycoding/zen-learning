@@ -9,8 +9,10 @@ I need a reading comprehension worksheet to improve my 7th grader's reading and 
 ### Worksheet Contents
 
 - **Reading Passage** — Write an original ~1,000-word informational passage on the topic above. Write at Grade 7 level — clear, engaging, and educational.
-- **10 Multiple Choice Questions** — Mix factual recall AND inference-based questions. Each question must have its own independent a) b) c) d) options — never continue lettering sequentially across questions (no e, f, g, etc.).
+- **10 Multiple Choice Questions** — Mix factual recall AND inference-based questions. Each question must have its own independent a) b) c) d) options — never continue lettering sequentially across questions (no e, f, g, etc.). Distribute the correct answers evenly between a, b, c, d options. Earlier all correct answers were concentrated at b.
 - **Summary Writing Task** — Ask the student to write a ~200-word summary. Include bullet-point scaffolding hints of the key points to cover so the student knows where to start. Do NOT leave a blank writing space in the document — it wastes paper when printing.
+- **Header** — Add topic to every page.
+- **Footer** — Add page number.
 - **Answer Key** — At the end of the document, include the correct answer for each multiple choice question with a brief explanation, plus a rubric or guide for scoring the summary.
 
 ### Grammar Rules
